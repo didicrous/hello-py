@@ -49,8 +49,9 @@ A summary of the tasks and results can be found here:
 
 
 
-**Terminal Output**:
+## Terminal Output:
 
+```
 didi@Didis-MacBook-Pro hello-py % uv run main.py
 Beginning of take home assignment submission:
 PROMPT 1
