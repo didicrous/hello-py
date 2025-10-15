@@ -1,3 +1,9 @@
+**Description**:
+Hello-py is a Python project that runs reasoning tasks using Anthropic’s API.
+It lets the model call tools such as a Python expression evaluator and a submission function to solve different types of prompts.
+
+Each task is tested multiple times to track how often the model succeeds and how consistent the results are.
+This helps measure the model’s reasoning ability and reliability in a structured way.
 
 hello-py
 ===
